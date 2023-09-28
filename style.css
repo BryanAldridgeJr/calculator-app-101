@@ -2,4 +2,28 @@ body {
   margin: 20% auto;
   width: 50%;
   height: 75%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  background-color: black;
+  color: white;
+}
+
+
+
+button {
+  background-color: #adadad;
+  border: none;
+  color: white;
+  padding: 3px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label {
+  font-size: 20pt;
+  color: white;
 }
